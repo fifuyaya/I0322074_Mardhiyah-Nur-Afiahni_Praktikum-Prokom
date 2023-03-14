@@ -1,5 +1,5 @@
 # Exercise-01
-print()
+print(" ")
 nama = "Mardhiyah Nur Afiahni"
 nim = "I0322074"
 
